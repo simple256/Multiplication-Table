@@ -1,0 +1,10 @@
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csprojAssemblyReference.cache
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication_Table.Form1.resources
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication_Table.Properties.Resources.resources
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.GenerateResource.cache
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+E:\Askar\Dropbox\GIT\VS Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
